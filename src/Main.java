@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Er");
         System.out.println("En");
         System.out.println("HACKER!");
+
+        //jeg hacker dig
     }
 }
